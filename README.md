@@ -1,4 +1,4 @@
-[![header](https://dummyimage.com/800x300/ffffff/000000&text=%20%F0%9F%98%80)](링크)
+:)
 
 
 
