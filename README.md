@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=%20안녕하시렵니까!&fontSize=90)
+![header](https://dummyimage.com/600x200/ffffff/000000&text=%20안녕하시렵니까!)
+
 
 
 #### 최근 열심히 하고 있는 
