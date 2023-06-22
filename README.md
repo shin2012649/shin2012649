@@ -1,3 +1,10 @@
-# shin2012649
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=%20%EC%95%88%EB%85%95%ED%95%98%EC%8B%9C%EB%A0%B5%EB%8B%88%EA%B9%8C%21&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=9dff9d&height=200&section=header&text=%20안녕하시렵니까!&fontSize=90)
+
+#### 최근 열심히 하고 있는 
+![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
+
+#### 한 번이라도 다뤄본 
+![javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black), ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+
+
 
