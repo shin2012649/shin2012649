@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=9dff9d&height=200&section=header&text=%20안녕하시렵니까!&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=fff&height=200&section=header&text=%20안녕하시렵니까!&fontSize=90)
+
 
 #### 최근 열심히 하고 있는 
 ![java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) 
