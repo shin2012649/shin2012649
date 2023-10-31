@@ -36,8 +36,3 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
 </p>
 
----
-
-## 👨‍💻 Algorithm Problems
-
-- Programmers: [shin2012649](https://programmers.co.kr/users/profile?username=shin2012649)
