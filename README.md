@@ -40,5 +40,4 @@
 
 ## 👨‍💻 Algorithm Problems
 
-- Baekjoon: [shin2012649](https://www.acmicpc.net/user/shin2012649)
 - Programmers: [shin2012649](https://programmers.co.kr/users/profile?username=shin2012649)
