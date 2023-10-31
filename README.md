@@ -1,13 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshin2012649&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-# 신현우 (Hyun-Woo Shin)
+# Hyun-Woo Shin
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shin2012649&show_icons=true)
 
-
 ---
 
-## 🛠 기술 스택
+## 🛠 Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
@@ -39,10 +38,7 @@
 
 ---
 
-## 👨‍💻 알고리즘 문제
+## 👨‍💻 Algorithm Problems
 
-- 백준: [shin2012649](https://www.acmicpc.net/user/shin2012649)
-- 프로그래머스: [shin2012649](https://programmers.co.kr/users/profile?username=shin2012649)
-
- 
- 
+- Baekjoon: [shin2012649](https://www.acmicpc.net/user/shin2012649)
+- Programmers: [shin2012649](https://programmers.co.kr/users/profile?username=shin2012649)
