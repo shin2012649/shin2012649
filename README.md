@@ -33,9 +33,12 @@
   <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white">
-  
   <br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Atlassian%20Jira-0052CC?style=flat-square&logo=jira&logoColor=white">
+  <img src="https://img.shields.io/badge/Atlassian%20Confluence-172B4D?style=flat-square&logo=confluence&logoColor=white">
+  <img src="https://img.shields.io/badge/Atlassian%20Crowd-0052CC?style=flat-square&logo=crowd&logoColor=white">
 </p>
 
