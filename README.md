@@ -7,7 +7,7 @@
    
 ---       
          
-## 🛠 Tech Stack  
+## 🛠 Tech Stack   
  
 <p align="center">
   <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white">
